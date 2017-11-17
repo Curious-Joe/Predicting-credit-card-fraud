@@ -1,1 +1,1 @@
-# Predicting Credit card fraud
+# Predicting credit card fraud
